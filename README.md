@@ -21,7 +21,7 @@ I'm a **Backend Software Engineer** with **4+ years of experience** designing, b
 - 👯 I'm looking to collaborate on **open source Java/Spring projects**
 - 💬 Ask me about **Java, Spring Boot, Microservices, and CI/CD**
 - 📫 How to reach me: **sumeetfromsummit@gmail.com**
-- 📄 Check out my portfolio: **[Sumeet-source.github.io/markups-sumeet](https://Sumeet-source.github.io/markups-sumeet/index.html)**
+- 📄 Check out my portfolio: **[sumeet-source.github.io/portfolio](https://sumeet-source.github.io/portfolio/)**
 
 ---
 
@@ -85,7 +85,7 @@ Python-based log reporting tool for Harbor registry.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumeet-dhakad/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sumeet-source)
 [![Email](https://img.shields.io/badge/Email-sumeetfromsummit%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sumeetfromsummit@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://Sumeet-source.github.io/markups-sumeet/index.html)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://sumeet-source.github.io/portfolio/)
 
 ---
 
