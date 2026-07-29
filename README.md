@@ -25,6 +25,23 @@ I'm a **Backend Software Engineer** with **4+ years of experience** designing, b
 
 ---
 
+## 📊 LeetCode Progress
+
+I'm currently sharpening my problem-solving skills by solving **Data Structures & Algorithms (DSA)** problems on **LeetCode** every single day! 🚀
+
+> *"Consistency is the key to mastering coding interviews and algorithmic thinking."*
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/dhakads458669?theme=dark&font=Noto%20Sans)
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/dhakads458669/)
+[![Daily Practice](https://img.shields.io/badge/Daily-DSA-orange?style=for-the-badge)]()
+
+✅ **Current Focus:** Arrays, Strings, Two Pointers, Sliding Window, Dynamic Programming
+
+🎯 **Goal:** Master algorithmic problem-solving and ace coding interviews!
+
+---
+
 ## 🛠️ Tech Stack
 
 ### Languages & Frameworks
