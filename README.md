@@ -14,7 +14,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Backend Software Engineer** with **4+ years of experience** designing, building, and scaling **Java and Spring Boot microservices** for enterprise banking and global logistics systems.
+I'm a **Backend Software Engineer** with **4+ years of experience** designing, building, and scaling microservices for enterprise banking and global logistics systems.
 
 - 🔭 I'm currently working on **scalable microservices and cloud-native applications**
 - 🌱 I'm currently learning **Kubernetes, AWS, and System Design**
